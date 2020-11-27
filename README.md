@@ -1,6 +1,6 @@
 # SIIM-ISIC-Melanoma-Classification 2020
 
-This task required to predict from a patient's dermoscopic data whether that region is a malignant or benign.
+This task required to predict from a patient's dermoscopic data whether the region is  malignant or benign.
 The train set contrains about 33,128 patient's dermoscopic information including images, age, sex, location of the image and so on.
 
 <h1> Proposed Method
