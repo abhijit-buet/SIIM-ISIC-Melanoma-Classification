@@ -16,4 +16,4 @@ The train set contrains about 33,128 patient's dermoscopic information including
   <h6>
     
     
- The evaluation was done using area under ROC. I have got a score of 0.862 which is top 20% in the leader board.
+ The evaluation was done using area under ROC. I have got a score of 0.862 which is top 12% in the leader board.
